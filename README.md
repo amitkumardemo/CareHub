@@ -13,7 +13,7 @@ A full-stack doctor consultation platform built with **React 19**, **Next.js 15*
 
 ## 📸 Screenshots
 
-> [Homepage](https://github.com/amitkumardemo/CareHub/blob/master/Screenshot%202025-06-10%20131341.png)
+> ![Homepage](https://github.com/amitkumardemo/CareHub/blob/master/Screenshot%202025-06-10%20131341.png)
 
 ---
 
