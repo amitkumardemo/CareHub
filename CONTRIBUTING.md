@@ -12,8 +12,6 @@ Thank you for considering contributing to **ChatterSpace**! We welcome all contr
 7. Push your branch and open a Pull Request.
 
 ## Code Style
-- Use ESLint for JavaScript linting.
-- Follow modular coding principles.
 - Keep functions small and focused.
 
 ## PR Guidelines
