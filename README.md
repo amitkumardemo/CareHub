@@ -5,6 +5,10 @@
 
 CareHub is a **full-stack doctor consultation platform** built with **React 19**, **Next.js 15**, **Tailwind CSS**, **NeonDB**, **Prisma**, **Clerk Authentication**, **Vonage Video API**, and **Shadcn UI**. It allows users to **book appointments, consult via video call, and manage their medical journey securely**.  
 
+
+> ⭐ Star this repository to help the project grow and attract contributors!
+> 
+[![OSCI-Project-Banner.png](https://i.postimg.cc/76mJvBmF/OSCI-Project-Banner.png)](https://postimg.cc/8JfzMb84)
 ---
 
 ## 🚀 Live Demo
@@ -100,6 +104,7 @@ git push origin feature/your-feature-name
 ## 🛡️ License
 
 This project is licensed under the MIT License. See [LICENSE](.github/LICENSE) for details.
+
 
 
 
