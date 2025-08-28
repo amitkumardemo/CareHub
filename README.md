@@ -64,6 +64,42 @@ We welcome contributions! Follow the steps below:
 ```bash
 git clone https://github.com/<your-username>/CareHub.git
 cd CareHub
+```
+3. **Create a Branch**
+```bash
+git checkout -b feature/your-feature-name
+```
+4.**Install Dependencies**
+```bash
+npm install
+```
+5.**Configure Environment Variables**
+Create a .env file in the root and add:
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+VONAGE_API_KEY=your_vonage_api_key
+VONAGE_API_SECRET=your_vonage_api_secret
+DATABASE_URL=your_neondb_connection_string
+```
+6.**Run the Development Server**
+```bash
+npm run dev
+```
+7.**Make Changes & Commit**
+```bash
+git add .
+git commit -m "Add feature/fix: description"
+git push origin feature/your-feature-name
+```
+
+
+## 🤝 Contributors
+<a href="https://github.com/amitkumardemo/CareHub/graphs/contributors"> <img src="https://contrib.rocks/image?repo=amitkumardemo/CareHub" /> </a>
+
+##🛡️ License
+
+This project is licensed under the MIT License. See LICENSE for details.
 
 
 
