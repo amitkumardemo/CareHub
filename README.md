@@ -3,7 +3,10 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://care-hub-seven.vercel.app/)  
 [![License](https://img.shields.io/badge/License-MIT-green)]()  
 
-CareHub is a **full-stack doctor consultation platform** built with **React 19**, **Next.js 15**, **Tailwind CSS**, **NeonDB**, **Prisma**, **Clerk Authentication**, **Vonage Video API**, and **Shadcn UI**. It allows users to **book appointments, consult via video call, and manage their medical journey securely**.  
+**CareHub** is a **full-stack doctor consultation platform** built with **React 19**, **Next.js 15**, **Tailwind CSS**, **NeonDB**, **Prisma**, **Clerk Authentication**, **Vonage Video API**, and **Shadcn UI**. It allows users to **book appointments, consult via video call, and manage their medical journey securely**.  
+
+
+Designed for a seamless and secure healthcare experience, CareHub connects patients and doctors anytime, anywhere.
 
 
 > ⭐ Star this repository to help the project grow and attract contributors!
@@ -104,6 +107,7 @@ git push origin feature/your-feature-name
 ## 🛡️ License
 
 This project is licensed under the MIT License. See [LICENSE](.github/LICENSE) for details.
+
 
 
 
