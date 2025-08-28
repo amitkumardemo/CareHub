@@ -1,17 +1,3 @@
-<div align="center">
-  
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-0b7cbd)]()
-[![First Contributors](https://img.shields.io/badge/first-contributors-0b7cbd)]()
-[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-0b7cbd)]()
-[![Issues](https://img.shields.io/github/issues/amitkumardemo/CareHub.svg?style=flat)](https://github.com/amitkumardemo/CareHub/issues)
-[![Stars](https://img.shields.io/github/stars/amitkumardemo/CareHub.svg?style=flat)](https://github.com/amitkumardemo/CareHub/stargazers)
-[![Forks](https://img.shields.io/github/forks/amitkumardemo/CareHub.svg?style=flat)](https://github.com/amitkumardemo/CareHub/network/members)
-[![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-
-</div>
-
 # 🩺 CareHub – Doctor Appointment & Video Consultation Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://care-hub-seven.vercel.app/)  
@@ -67,8 +53,18 @@ CareHub is a **full-stack doctor consultation platform** built with **React 19**
 
 
 
-Open http://localhost:3000
- in your browser to view the app.
+## 🧑‍💻 Getting Started for Contributors
+
+We welcome contributions! Follow the steps below:
+
+1. **Fork the Repository**  
+   Click the "Fork" button at the top right of the repo.
+
+2. **Clone the Forked Repository**
+```bash
+git clone https://github.com/<your-username>/CareHub.git
+cd CareHub
+
 
 
 
