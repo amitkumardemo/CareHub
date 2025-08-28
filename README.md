@@ -97,9 +97,10 @@ git push origin feature/your-feature-name
 ## 🤝 Contributors
 <a href="https://github.com/amitkumardemo/CareHub/graphs/contributors"> <img src="https://contrib.rocks/image?repo=amitkumardemo/CareHub" /> </a>
 
-##🛡️ License
+## 🛡️ License
 
 This project is licensed under the MIT License. See LICENSE for details.
+
 
 
 
