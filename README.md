@@ -51,41 +51,9 @@ CareHub is a **full-stack doctor consultation platform** built with **React 19**
 
 ---
 
-## ⚙️ Getting Started
-
-Follow these steps to **run CareHub locally**:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/amitkumardemo/CareHub.git
-cd CareHub
-
-2. Install Dependencies
-npm install
-
-3. Configure Environment Variables
-
-Create a .env file in the root directory and add the following keys (replace the placeholders with your actual credentials):
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-VONAGE_API_KEY=your_vonage_api_key
-VONAGE_API_SECRET=your_vonage_api_secret
-DATABASE_URL=your_neondb_connection_string
-
-
-Explanation:
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY and CLERK_SECRET_KEY: Required for Clerk authentication.
-
-VONAGE_API_KEY and VONAGE_API_SECRET: Used for video call functionality.
-
-DATABASE_URL: NeonDB connection string for storing app data.
-
-4. Run the Development Server
-npm run dev
 
 
 Open http://localhost:3000
  in your browser to view the app.
+
 
