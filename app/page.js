@@ -17,7 +17,7 @@ export default function Home() {
             <div className="space-y-8">
               <Badge
                 variant="outline"
-                className="bg-emerald-900/30 border-emerald-700/30 px-4 py-2 text-emerald-400 text-sm font-medium"
+                className="bg-emerald-900/30 border-none px-3 py-1 text-emerald-300 text-base font-semibold tracking-wide rounded-full  cursor-default"
               >
                 Healthcare made simple
               </Badge>
