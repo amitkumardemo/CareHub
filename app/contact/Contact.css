@@ -1,0 +1,10 @@
+.title-box {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 80px auto 80px;
+    background: linear-gradient(90deg, #FF8C42, #C1FF72, #00C9A7);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+    
