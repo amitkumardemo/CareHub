@@ -158,7 +158,7 @@ export default function RootLayout({ children }) {
                 <p>
                   © {new Date().getFullYear()} CareHub. All rights reserved.
                 </p>
-                <p className="mt-1">Made with 💗 by Mahbub Alam</p>
+                <p className="mt-1">Made with 💗 by Amit Kumar</p>
               </div>
             </footer>
           </ThemeProvider>
